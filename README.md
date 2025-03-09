@@ -38,16 +38,24 @@ npm start
 
 
 🔧 Available Scripts
+
 Command	Description
+
 npm start	Run the app in development mode.
+
 npm run build	Build the app for production.
+
 npm test	Run tests (if implemented).
 
 
 🎯 Future Enhancements
+
 ✅ User authentication for saving favorite recipes.
+
 ✅ Meal planner feature to schedule recipes.
+
 ✅ Dark mode support for better user experience.
+
 📜 License
 
 
