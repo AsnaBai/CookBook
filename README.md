@@ -2,6 +2,7 @@
 A recipe management app built with React.js that allows users to explore, search, and filter recipes using the MealsDB API.
 
 ✨ Features
+
 📖 Browse a vast collection of international recipes.
 🔍 Search for recipes by name or ingredients.
 📌 Filter recipes based on categories and meal types.
@@ -20,7 +21,7 @@ Ensure you have Node.js installed. You can download it from Node.js Official Web
 
 Installation
 Clone the repository:
-git clone https://github.com//cookbook-app.git
+git clone https://github.com/AsnaBai/CookBook
 cd cookbook-app
 Install dependencies:
 
