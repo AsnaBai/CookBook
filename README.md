@@ -1,4 +1,5 @@
-#🍽️ CookBook - Recipe Management App
+🍽️ CookBook - Recipe Management App
+
 A recipe management app built with React.js that allows users to explore, search, and filter recipes using the MealsDB API.
 
 ✨ Features
